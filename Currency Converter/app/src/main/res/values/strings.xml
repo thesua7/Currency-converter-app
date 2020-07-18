@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="textview" />
+    <string name="string_textview">TITLE</string>
+    <string name="string_string_textview" />
+    <string name="string_string_string_textview">title</string>
+    <string name="type_in_taka">Type in TAKA</string>
+    <string name="to_dollar">To Dollar</string>
+    <string name="toShow">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
